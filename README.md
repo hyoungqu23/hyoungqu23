@@ -10,6 +10,79 @@
 ![VScode](https://img.shields.io/badge/VS%20Code-007ACC?&style=flat&logo=visualstudiocode&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 774 Contributions in the Year 2022
+ > 
+> 📦 49.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    99 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌆 Daytime    192 commits    ████████░░░░░░░░░░░░░░░░░   34.22% 
+🌃 Evening    194 commits    ████████░░░░░░░░░░░░░░░░░   34.58% 
+🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
+Tuesday      66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Wednesday    115 commits    █████░░░░░░░░░░░░░░░░░░░░   20.5% 
+Thursday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
+Friday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.43% 
+Saturday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
+Sunday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               9 repos             ████████████████░░░░░░░░░   64.29% 
+HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/hyoungqu23/hyoungqu23/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/06/2022 14:46:08 UTC
 <!--END_SECTION:waka-->
 
 ## Stats..
