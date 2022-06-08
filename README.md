@@ -4,3 +4,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoungqu23&show_icons=true&theme=github_dark)](https://github.com/hyoungqu23/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoungqu23&hide=html)](https://github.com/hyoungqu23/github-readme-stats)
