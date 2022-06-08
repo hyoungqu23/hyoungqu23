@@ -9,7 +9,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white) 
 ![VScode](https://img.shields.io/badge/VS%20Code-007ACC?&style=flat&logo=visualstudiocode&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hyoungqu23?theme=dark&font=Comic%20Neue)
+## About..
+
 <!--START_SECTION:waka-->
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -26,7 +27,7 @@
 ```
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+<!-- 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
 ⌚︎ Timezone: Asia/Seoul
@@ -40,13 +41,14 @@
 💻 운영 체제들: 
 이번 주에 활동은 없어요.
 
-```
+``` -->
 
 
  Last Updated on 08/06/2022 15:23:31 UTC
 <!--END_SECTION:waka-->
 
 ## Stats..
+![LeetCode Stats](https://leetcard.jacoblin.cool/hyoungqu23?theme=dark&font=Comic%20Neue)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyoungqu23&show_icons=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoungqu23&hide=html">
