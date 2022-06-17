@@ -1,5 +1,5 @@
 # Hi 😎
-[![Github Badge](https://img.shields.io/badge/-hyoungqu23?style=flat&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
+[![Github Badge](https://img.shields.io/badge/-hyoungqu23-000000?style=flat&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
 [![Gmail Badge](https://img.shields.io/badge/-hyoungqu23@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hyoungqu23@gmail.com)](mailto:hyoungqu23@gmail.com)
 [![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://hyoungqu23.github.io/)
 [![TIL](https://img.shields.io/badge/TIL-blue?style=flat&logoColor=white)](https://minivanta23.notion.site/b74e7b8bfca7449ca4c740e0ad7278f7)
