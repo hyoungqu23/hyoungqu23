@@ -1,37 +1,41 @@
+
 # Hi 😎
-[![Github Badge](https://img.shields.io/badge/-hyoungqu23-000000?style=flat&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
-[![Gmail Badge](https://img.shields.io/badge/-hyoungqu23@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hyoungqu23@gmail.com)](mailto:hyoungqu23@gmail.com)
-[![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://hyoungqu23.github.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logoColor=white)](https://hyoungmin.notion.site/Hyoungmin-148ffdf1a5fe480b865ff6a0de802444)
 
-## Skills & Tools
+[![Github Badge](https://img.shields.io/badge/-hyoungqu23-0575E6?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
+[![Notion Blog](https://img.shields.io/badge/Notion_Blog-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.notion.site/f4673e33e89f4143a0526b91d0040f89?v=38d3e22f4eb242149ed9dc21f53f7e6a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.notion.site/148ffdf1a5fe480b865ff6a0de802444)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white)
+### I'm Frontend Developer Hyoungmin.
 
-<br />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white) 
+### Skills
 
-<br />
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
-![VScode](https://img.shields.io/badge/VS%20Code-007ACC?&style=flat&logo=visualstudiocode&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
-## Stats..
-![LeetCode Stats](https://leetcard.jacoblin.cool/hyoungqu23?theme=dark&font=Comic%20Neue)
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
+
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
+![VScode](https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Stats..
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyoungqu23&show_icons=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoungqu23&hide=html">
