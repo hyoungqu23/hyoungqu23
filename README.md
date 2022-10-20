@@ -2,7 +2,7 @@
 # Hi 😎
 
 [![Github Badge](https://img.shields.io/badge/-hyoungqu23-0575E6?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
-[![Notion Blog](https://img.shields.io/badge/Notion_Blog-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.notion.site/f4673e33e89f4143a0526b91d0040f89?v=38d3e22f4eb242149ed9dc21f53f7e6a)
+[![Blog](https://img.shields.io/badge/Blog-0575E6?style=for-the-badge&logoColor=white)](https://minilog.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.notion.site/148ffdf1a5fe480b865ff6a0de802444)
 
