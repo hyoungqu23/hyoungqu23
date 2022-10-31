@@ -7,7 +7,7 @@
 [![Resume](https://img.shields.io/badge/Resume-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.notion.site/148ffdf1a5fe480b865ff6a0de802444)
 
 
-### I'm Frontend Developer Hyoungmin.
+### I'm Frontend Developer Hyoungmin.🖐️
 
 
 ### Skills
