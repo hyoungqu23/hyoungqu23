@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.vercel.app/)
 
 
-### I'm Frontend Developer Hyoungmin.🖐️
+### I'm WEB Developer Hyoungmin.🖐️
 
 ---
 
@@ -16,8 +16,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
 
 ### Tools
 
