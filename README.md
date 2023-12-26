@@ -2,8 +2,6 @@
 # Hi 😎
 
 [![Github Badge](https://img.shields.io/badge/-hyoungqu23-0575E6?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
-[![Blog](https://img.shields.io/badge/Blog-0575E6?style=for-the-badge&logoColor=white)](https://minilog.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0575E6?style=for-the-badge&logoColor=white)](https://hyoungmin.vercel.app/)
 
 
 ### I'm WEB Developer Hyoungmin.🖐️
