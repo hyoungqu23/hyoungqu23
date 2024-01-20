@@ -1,7 +1,5 @@
 # Hi 😎
 
-[![Github Badge](https://img.shields.io/badge/-hyoungqu23-0575E6?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hyoungqu23/)](https://www.github.com/hyoungqu23/)
-
 ### I'm WEB Developer Hyoungmin.🖐️
 
 ---
