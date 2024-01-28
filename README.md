@@ -1,6 +1,4 @@
-# Hi 😎
-
-### I'm WEB Developer Hyoungmin.🖐️
+# Hyoungmin
 
 ---
 
