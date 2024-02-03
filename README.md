@@ -1,5 +1,7 @@
 # Hyoungmin
 
+## Frontend Developer
+
 ---
 
 ### Skills
