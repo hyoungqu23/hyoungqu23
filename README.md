@@ -5,6 +5,7 @@
 ### About
 
 <a href='https://hyoungmin.notion.site/148ffdf1a5fe480b865ff6a0de802444' target='_blank'>![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href='https://hyoungmin2.vercel.app' target='_blank'>![Tech Blog](https://img.shields.io/badge/Tech_Blog-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 ### Contact
 <a href='mailto://hyoungqu23@gmail.com' target='_blank'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -31,7 +32,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### I use it once,
+#### I used it once,
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
